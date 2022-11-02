@@ -10,7 +10,7 @@
     "babel-preset-react-native": "^2.1.0",
     "prop-types": "^15.7.2",
     "react": "16.5.0",
-    "react-native": "0.57.0",
+    "react-native": "0.70.4",
     "react-native-af-video-player": "^0.2.1",
     "react-native-dom": "0.5.0",
     "react-native-scrollable-tab-view": "^0.10.0",
